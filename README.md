@@ -5,3 +5,9 @@ https://swiftywang.github.io/Private-Policy/index.html
 
 ## CoinNews
 https://swiftywang.github.io/Private-Policy/coinnews.html  
+
+## My Github
+https://swiftywang.github.io/Private-Policy/my_github_privacy_policy.html
+
+## 港幣匯率換算
+https://swiftywang.github.io/Private-Policy/currency_exchange_privacy_policy.html
