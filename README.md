@@ -14,3 +14,6 @@ https://swiftywang.github.io/Private-Policy/currency_exchange_privacy_policy.htm
 
 ## 邻里和谐
 https://swiftywang.github.io/Private-Policy/llhx.html
+
+## 朗文讀報
+https://swiftywang.github.io/Private-Policy/voice_text_privacy_policy.html
