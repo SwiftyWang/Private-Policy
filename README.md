@@ -18,5 +18,8 @@ https://swiftywang.github.io/Private-Policy/llhx.html
 ## 朗文讀報
 https://swiftywang.github.io/Private-Policy/voice_text.html
 
+## 繁簡轉換
+https://swiftywang.github.io/Private-Policy/translate_tc2sc.html
+
 ## 静听小说
 https://swiftywang.github.io/Private-Policy/bookplayer_privacy_policy.html
