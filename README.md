@@ -25,4 +25,4 @@ https://swiftywang.github.io/Private-Policy/translate_tc2sc.html
 https://swiftywang.github.io/Private-Policy/bookplayer_privacy_policy.html
 
 ## AI Building
-https://swiftywang.github.io/Private-Policy/ai_building_private_policy.html
+https://swiftywang.github.io/Private-Policy/ai_building_privacy_policy.html
