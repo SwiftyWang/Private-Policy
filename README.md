@@ -23,3 +23,6 @@ https://swiftywang.github.io/Private-Policy/translate_tc2sc.html
 
 ## 静听小说
 https://swiftywang.github.io/Private-Policy/bookplayer_privacy_policy.html
+
+## AI Building
+https://swiftywang.github.io/Private-Policy/ai_building_private_policy.html
